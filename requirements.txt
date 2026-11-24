@@ -1,0 +1,5 @@
+# unitree_sdk2_python은 공식 저장소 README 절차(cyclonedds 0.10.2 포함)로 별도 설치한다.
+numpy
+soxr>=0.3
+websockets>=14     # OpenAI Realtime 백엔드
+google-genai>=1.0  # Gemini Live 백엔드
